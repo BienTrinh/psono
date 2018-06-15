@@ -1,4 +1,4 @@
-#Build
+# Build
 
 ```sh
 $ git clone https://github.com/BienTrinh/psono.git
